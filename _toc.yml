@@ -1,0 +1,5 @@
+format: jb-book
+root: lab_12
+chapters:
+  - file: project_3
+  

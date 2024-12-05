@@ -1,0 +1,7 @@
+title: Computing in Context 
+author: Stuti Banga
+
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: "off"
